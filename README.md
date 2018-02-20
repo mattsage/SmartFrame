@@ -42,6 +42,16 @@ Create /home/pi/APIConfigs
 #?? - LED6 (RGB)    
 #?? - LED7 (White)  
 
+###Blinkt! LEDs
+1) My Traffic  
+2) Wife's Traffic  
+3) Internet Down?  
+4) VPN On  
+5) Download Complete  
+6)  
+7)  
+8)  
+
 ## API Keys needed:  
 #Github Key  
 /home/pi/APIConfigs/github.config  
