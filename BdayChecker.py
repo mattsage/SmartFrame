@@ -61,7 +61,7 @@ if cdaymon == person4:
 	pbsubject = "Person4's Birthday Today"
 	push = pb.push_note(pbsubject, pbsubject)
 if cdaymon == person5:
-	print "Happy Bday Person25"
+	print "Happy Bday Person5"
 	#LED5 On
 	pbsubject = "Person5's Birthday Today"
 	push = pb.push_note(pbsubject, pbsubject)
