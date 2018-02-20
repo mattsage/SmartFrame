@@ -1,11 +1,11 @@
-# SmartFrame
-Heard of a digital photo frame?.....This one is SMART!
+# SmartFrame  
+Heard of a digital photo frame?.....This one is SMART!  
 
-SmartFrame is a Successer of my tried and tested RouterPi but housed within a Photo Frame
+SmartFrame is a Successer of my tried and tested RouterPi but housed within a Photo Frame  
 
-SmartFrame offers:
-LED Notification of Important Dates and Birthdays
-Chore Calendar
+##SmartFrame offers:  
+[] LED Notification of Important Dates and Birthdays  
+Chore Calendar  
 Internet Speed Tests
 Travel Times
 Transmission
