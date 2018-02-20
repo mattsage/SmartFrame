@@ -42,7 +42,7 @@ Create /home/pi/APIConfigs
 #?? - LED6 (RGB)    
 #?? - LED7 (White)  
 
-###Blinkt! LEDs
+### Blinkt! LEDs
 1) My Traffic  
 2) Wife's Traffic  
 3) Internet Down?  
