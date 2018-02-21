@@ -20,14 +20,14 @@ SmartFrame is a Successer of my tried and tested [RouterPi](https://github.com/m
 * Xmas Countdown  
 
 ## Hardware:
-Raspberry Pi Zero W  
-Pico Hat Hack4r (https://shop.pimoroni.com/products/pico-hat-hacker)  
-Inky Phat (https://shop.pimoroni.com/products/inky-phat)  
-Blinkt! (https://shop.pimoroni.com/products/blinkt)  
-Numerous LEDs of different Colours (https://thepihut.com/products/ultimate-3mm-led-kit)  
-Push Buttons  
-Jumper Cables  
-Frame  
+* Raspberry Pi Zero W  
+* Pico Hat Hack4r (https://shop.pimoroni.com/products/pico-hat-hacker)  
+* Inky Phat (https://shop.pimoroni.com/products/inky-phat)  
+* Blinkt! (https://shop.pimoroni.com/products/blinkt)  
+* Numerous LEDs of different Colours (https://thepihut.com/products/ultimate-3mm-led-kit)  
+* Push Buttons  
+* Jumper Cables  
+* Photo Frame  
 
 ## Setup:  
 Create /home/pi/APIConfigs  
