@@ -3,14 +3,19 @@ Heard of a digital photo frame?.....This one is SMART!
 
 SmartFrame is a Successer of my tried and tested [RouterPi](https://github.com/mattsage/RouterPi) but housed within a Photo Frame  
 
-## SmartFrame offers:  
-* LED Notification of Important Dates and Birthdays  
-* Chore Calendar  
-* Internet Speed Tests  
+## SmartFrame offers:
+#### Blinkt!  
 * Travel Times  
-* Transmission  
+* Internet Speed Tests 
 * VPN  
+* Transmission  
+#### Inky pHat  
+* Date  
+* Chore Calendar  
 * Weather  
+#### LEDs  
+* LED Notification of Important Dates and Birthdays  
+#### Other
 * Pi-Hole  
 * Xmas Countdown  
 
@@ -20,6 +25,7 @@ Pico Hat Hack4r (https://shop.pimoroni.com/products/pico-hat-hacker)
 Inky Phat (https://shop.pimoroni.com/products/inky-phat)  
 Blinkt! (https://shop.pimoroni.com/products/blinkt)  
 Numerous LEDs of different Colours (https://thepihut.com/products/ultimate-3mm-led-kit)  
+Push Buttons  
 Jumper Cables  
 Frame  
 
