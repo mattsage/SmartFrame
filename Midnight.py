@@ -4,6 +4,14 @@ from PIL import ImageFont, Image
 import datetime
 import subprocess
 
+##################
+#Bday Checker
+##################
+bday()
+
+##################
+#Inky Hat
+##################
 
 #Font Sizes
 Datefont = ImageFont.truetype(inkyphat.fonts.FredokaOne, 19)
