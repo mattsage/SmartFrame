@@ -1,2 +1,0 @@
-from bday import *
-bday()
