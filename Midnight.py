@@ -7,7 +7,7 @@ import subprocess
 ##################
 #Bday Checker
 ##################
-bday()
+#bday()
 
 ##################
 #Inky Hat
