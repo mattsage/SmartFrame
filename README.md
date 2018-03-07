@@ -19,6 +19,10 @@ SmartFrame is a Successer of my tried and tested [RouterPi](https://github.com/m
 * Pi-Hole  
 * Xmas Countdown  
 
+## Timings  
+* 0000 - 
+* 
+
 ## Hardware:
 * Raspberry Pi Zero W  
 * Pico Hat Hack4r (https://shop.pimoroni.com/products/pico-hat-hacker)  
