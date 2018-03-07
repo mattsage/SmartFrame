@@ -1,5 +1,5 @@
 import inkyphat
-from Function_CleaningCalendar import *
+from Functions_SmartFrame import *
 from PIL import ImageFont, Image
 import datetime
 import subprocess
