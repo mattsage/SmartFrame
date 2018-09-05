@@ -8,7 +8,9 @@ SmartFrame is a Successer of my tried and tested [RouterPi](https://github.com/m
 * Travel Times  
 * Internet Speed Tests 
 * VPN  
-* Transmission  
+* Transmission Active  
+* Litecoin  
+* Ripple
 #### Inky pHat  
 * Date  
 * Chore Calendar  
